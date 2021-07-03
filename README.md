@@ -5,5 +5,7 @@ This App was done for all platforms (responsive design for web(chrome or edge), 
 
 ## Outputs:- 
 
-![image](https://user-images.githubusercontent.com/60535124/124360771-367fca80-dc49-11eb-8e33-b59d26682384.png)
+![image](https://user-images.githubusercontent.com/60535124/124360840-98403480-dc49-11eb-9a2d-4c7e377998ea.png)
+
+
 
