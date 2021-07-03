@@ -16,5 +16,6 @@ This App was done for all platforms (responsive design for web(chrome or edge), 
 
 #### Android Emulator:- 
 
+![image](https://user-images.githubusercontent.com/60535124/124361057-9f1b7700-dc4a-11eb-8103-0f3fe000a769.png)
 
 
